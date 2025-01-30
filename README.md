@@ -1,1 +1,2 @@
 # Smart-entry-exit-system-
+The automatic door system use ultrasonic sensor to detect the presences of human or objects within its radar and send signal to Arduino microcontroller who instructs the servo motor to open the door and keep it open at a certain period of time while the Lcd will display PLEASE ENTER, and when there is nothing at the radar the ultrasonic sensor send again the signal to Arduino microcontroller  who instruct the servo motor to close the door automatically and the Liquid crystal will display WELCOME.
